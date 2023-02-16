@@ -1,0 +1,4 @@
+schema: '2.0'
+stages:
+  filterdataset:
+    cmd: python code/0_filterdataset.py
