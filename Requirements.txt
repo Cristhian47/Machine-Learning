@@ -1,0 +1,70 @@
+Visual Studio Code.
+    - Python
+    - Python Environment Manager
+    - Python Linter
+    - DVC
+    - Remote Development (SSH)
+Anaconda
+    - Python
+    - Pandas
+    
+ZSH
+oh my zsh
+
+Linea de comandos.
+
+
+
+PIPELINE:
+
+
+NO TENER TODO METIDO EN UN JUPYTER NOTEBOOK.
+
+CADA ETAPA DEL PROCESO DE APRENDIZAJE DE MAQUINA HACERLO EN UN ARCHIVO DE PYTHON INDIVIDUAL.
+
+
+
+Code
+    - Python files, primer caracter dígito (ej 0_filterdataset.py...)
+
+Data
+
+
+Metrics: Hace referencia a...
+    train, validation, test
+
+Model: Guardara los datos del modelo (Pesos de una red neuronal guardados automaticamente) Checkpoints del modelo en diferentes momentos
+
+dvc.yaml
+Se controla que datos genera cada módulo del código fuente, se controla....
+
+params.yaml: Contiene todos los parametros e hyperparametros de lo que se está generando.
+
+PYTHON 3.9.16
+
+TAREA:
+
+REGRESION LINEAL BASICA CUMPLIENDO LA ESTRUCTURA ANTES MENCIONADA
+
+Código fuente en github
+Datos y modelo en storage (AWS, google drive, etc..)
+
+s3 con cuenta estudiantil
+
+
+
+
+
+
+
+
+
+
+CICD
+
+
+
+
+
+
+ARREGLAR ESTE ARCHIVO CON LOS REQUIREMENTS CORRECTOS. (Versiones)
