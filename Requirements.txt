@@ -68,3 +68,38 @@ CICD
 
 
 ARREGLAR ESTE ARCHIVO CON LOS REQUIREMENTS CORRECTOS. (Versiones)
+
+
+_________________________________________________________________
+
+Clase 2:
+
+
+
+Storage: S3, AWS, Azure
+
+
+Control de versiones (repositorio) de código.
+GitHub, GitLab, GitServer.
+
+
+
+(Local) Conjunto de archivos:
+Code: Se sincroniza con el git GitServer
+dvc.lock: Se sincroniza con el git GitServer
+Data: Se sincroniza con el storage
+Model: Se sincroniza con el storage
+
+IMPORTANTE:
+Creditos si se utiliza el código de alguien. (Incluyendo Chat GPT).
+
+
+
+
+
+No me está trayendo git ignore y dvc ignore
+
+
+
+
+Repo del profe: https://github.com/JJSirius/mllab01

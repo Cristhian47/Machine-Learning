@@ -1,0 +1,3 @@
+stages:
+  download:
+    cmd: python code/0_download.py
